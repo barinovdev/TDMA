@@ -1,0 +1,2 @@
+# TDMA
+TDMA method solved
